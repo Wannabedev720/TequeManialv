@@ -1,2 +1,1 @@
-# TequeManialv
-LasVegas Venezulan Food
+This site is made by DruggmoneyMedia/WannabeDev720

@@ -1,0 +1,86 @@
+h1, h2{
+  text-align: center;
+  font-family: Impact;
+}
+main{
+  background-color: orange;
+}
+a {
+  color: black;
+}
+a:visited{
+  color: black;
+}
+a:hover{
+  color: blue;
+}
+a:active
+{
+  color: white;
+}
+header{
+  background-image: url("photos/header 2.png");
+  background-color: orange;
+  background-size: 65% 36%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 100%;
+  padding-bottom: 40px;
+  margin-top: auto;
+  }
+.menu{
+  width: 80%;
+  background-color: yellow;
+  margin-top: auto;
+  margin-left: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+  padding: 20px;
+  border: 5px solid black;
+}
+section{
+  background-color: white;
+
+}
+td{
+  width: 1%;
+  font-size: 18px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+article{
+  background-color: yellow;
+
+}
+body{
+  background-color: orange;
+  font-family: sans-serif;
+  padding: 40px;
+}
+.contact{
+  background-color: white;
+  width: 10%;
+  margin-left: 15px;
+  padding: 20px;
+  border: 1px solid blue;
+
+}
+nav{
+  background-color: yellow;
+  width: auto;
+}
+.about{
+  background-color: white;
+
+  width: 1000px;
+}
+.established {
+  font-style: italic;
+}
+hr{
+  height: 1px;
+  background-color: black;
+  border-color: black;
+}
