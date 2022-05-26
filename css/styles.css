@@ -19,15 +19,14 @@ a:active
   color: white;
 }
 header{
-  background-image: url("photos/header 2.png");
-  background-color: orange;
+  background-image: url("headers.png");
   background-size: 65% 36%;
   background-repeat: no-repeat;
   background-position: center center;
   width: 100%;
   padding-bottom: 40px;
   margin-top: auto;
-  }
+}
 .menu{
   width: 80%;
   background-color: yellow;
